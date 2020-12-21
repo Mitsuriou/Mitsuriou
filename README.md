@@ -34,7 +34,7 @@ I'm a twenty one years old, freshly graduated full-stack developer.
 #
 ## You can find some of my main personal creations below
 ### Softwares
-[MFBO Preset Creator](https://github.com/Mitsuriou/MFBO-Preset-Creator) (this software is used along with some other Skyrim modding tools)
+- [MFBO Preset Creator](https://github.com/Mitsuriou/MFBO-Preset-Creator) (this software is used along with some other Skyrim modding tools)
 ### Websites (made for my father's companies)
 - [Cuisine Idylle](https://www.cuisine-idylle.fr) (needs to be updated and hugely improved)
 - [Home concept](https://www.homconcept.com) (Work In Progress)
