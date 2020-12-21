@@ -41,8 +41,9 @@ I'm a twenty one years old, freshly graduated full-stack developer.
 
 #
 ## Languages and tools
-### Most personaly used languages and ressources
+### Most personaly used languages, librairies and ressources
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
