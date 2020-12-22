@@ -1,7 +1,7 @@
 ![Mitsuriou's profile picture](https://avatars3.githubusercontent.com/u/37184309?s=100&u=5bea81cf98a1bddaefab87ac8d616cf034a13b62&v=4)
 
 # Hello and welcome to my Github profile 🧔
-I'm a twenty one years old, freshly graduated full-stack developer.
+I am a twenty one years old, freshly graduated full-stack developer.
 - <img src="https://content.linkedin.com/content/dam/me/news/en-us/icons/Social_Icons_linkedin.svg.original.svg" alt="LinkedIn icon" width="16"/> Find my LinkedIn profile [here](https://www.linkedin.com/in/d-jacq/).
 - <img src="https://cdn.iconscout.com/icon/free/png-128/gitlab-282507.png" alt="GitLab icon" width="16"/> Find my Gitlab profile [here](https://gitlab.com/Mitsuriou) (mostly used as a GitHub mirror for some projects).
 
@@ -15,21 +15,21 @@ I'm a twenty one years old, freshly graduated full-stack developer.
 
 - 🌐 In early/mid 2021, I will concentrate my efforts into profesional website creation.
 
-- 📱 I'm also interested in mobile apps, UI and UX, webdesign. They also will be part of this 2021 year to be able to provide profesional quality apps.
+- 📱 I am also interested in mobile apps, UI and UX, webdesign. They also will be part of this 2021 year to be able to provide profesional quality apps.
 
 - 🇫🇷 French is my native language.
 
 - 🇺🇸 I can speak and understand English without problem (TOEIC: 850 points).
 
-- 🇪🇸 I've studied Spanish at School and I can understand and speak a little bit of Spanish.
+- 🇪🇸 I have studied Spanish at School and I can understand and speak a little bit of Spanish.
 
-- ⛸️ Since two years, I'm practising ice rink skating. I may not be the best, but I will not give up on becoming one of the stronger people among the others that come to the local ice rink!
+- ⛸️ Since two years, I am practising ice rink skating. I may not be the best, but I will not give up on becoming one of the strongest people among the others that come to our city's ice rink!
 
 - 🎮 I used to be a geek when I was a little bit younger. My favorite game of all time? "NieR: Automata", without hesitation!
 
-- 🎵 I'm a huge K-POP enthusiast!
+- 🎵 I am a huge K-POP enthusiast!
 
-- 👨‍🎓 Actively studying Korean language (level: beginner). 읽어 주셔서 감사합니다!
+- 👨‍🎓 I am Actively studying Korean language (level: beginner). 읽어 주셔서 감사합니다!
 
 #
 ## You can find some of my main personal creations below
@@ -41,11 +41,12 @@ I'm a twenty one years old, freshly graduated full-stack developer.
 
 #
 ## Languages and tools
-### Most personaly used languages, librairies and ressources
+### Most personaly and profesionaly used languages, librairies and ressources
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg"></code>
+<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
@@ -63,6 +64,5 @@ I'm a twenty one years old, freshly graduated full-stack developer.
 
 #
 ## General statistics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mitsuriou&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuriou)](https://github.com/anuraghazra/github-readme-stats)
+![Mitsuriou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitsuriou&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&line_height=40)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuriou)
