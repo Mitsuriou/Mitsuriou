@@ -29,7 +29,7 @@ I am a twenty one years old, freshly graduated full-stack developer.
 
 - 🎵 I am a huge K-POP enthusiast!
 
-- 👨‍🎓 I am Actively studying Korean language (level: beginner). 읽어 주셔서 감사합니다!
+- 👨‍🎓 I am actively studying Korean language (level: beginner). 읽어 주셔서 감사합니다!
 
 #
 ## You can find some of my main personal creations below
