@@ -46,8 +46,8 @@ I am a twenty one years old, freshly graduated full-stack developer.
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
+<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
