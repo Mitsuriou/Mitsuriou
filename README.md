@@ -60,6 +60,7 @@ I am a twenty one years old, freshly graduated full-stack developer.
 
 ### Near future interests
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
+<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Nuxt-js.png"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 
 #
