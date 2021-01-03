@@ -53,14 +53,17 @@ I am a twenty one years old, freshly graduated full-stack developer.
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Markdown.png"></code>
 
-### Most personaly used development tools
+### Most personaly and profesionaly used development tools
 <code><img height="24" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
 <code><img height="24" src="https://git-scm.com/images/logo@2x.png"></code>
 
 ### Near future interests
+<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/MariaDB_Logo.png"></code>
+<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Nuxt-js.png"></code>
+<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
 
 #
