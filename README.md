@@ -5,7 +5,7 @@ I am a twenty one years old, freshly graduated full-stack developer.
 - <img src="https://content.linkedin.com/content/dam/me/news/en-us/icons/Social_Icons_linkedin.svg.original.svg" alt="LinkedIn icon" width="16"/> Find my LinkedIn profile [here](https://www.linkedin.com/in/d-jacq/).
 - <img src="https://cdn.iconscout.com/icon/free/png-128/gitlab-282507.png" alt="GitLab icon" width="16"/> Find my Gitlab profile [here](https://gitlab.com/Mitsuriou) (mostly used as a GitHub mirror for some projects).
 
-## Personal information:
+## Personal information
 - 🏫 Major of promotion in computer science DUT at the [University Institute of Technology of Belfort-Montbéliard](http://www.iut-bm.univ-fcomte.fr) for the years 2017-2019
 - 🏢 Currently working for [Caddev (a Work4Cad company)](https://www.caddev.info/).
 
