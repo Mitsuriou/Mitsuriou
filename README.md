@@ -42,29 +42,29 @@ I am a twenty one years old, freshly graduated full-stack developer.
 #
 ## Languages and tools
 ### Most personaly and profesionaly used languages, librairies and ressources
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Markdown.png"></code>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ### Most personaly and profesionaly used development tools
-<code><img height="24" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
-<code><img height="24" src="https://git-scm.com/images/logo@2x.png"></code>
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Near future interests
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/MariaDB_Logo.png"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Nuxt-js.png"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+![Vue.JS](https://img.shields.io/badge/Vue.JS-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/Nuxt.JS-00C58E?style=flat&logo=nuxt.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 
 #
 ## General statistics
