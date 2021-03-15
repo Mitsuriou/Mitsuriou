@@ -51,24 +51,19 @@ I am a twenty one years old, freshly graduated full-stack developer.
 
 ### Favorite web ressources
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-#### JavaScript layer
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white)
 ![Vue.JS](https://img.shields.io/badge/Vue.JS-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![NuxtJS](https://img.shields.io/badge/Nuxt.JS-00C58E?style=flat&logo=nuxt.js&logoColor=white)
-#### Style
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind%20css&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ### Most personaly and profesionaly used development tools
-#### IDE / Text editor
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-#### Console
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white)
-#### Other
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
