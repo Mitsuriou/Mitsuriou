@@ -11,13 +11,11 @@ I am a twenty-two years old, freshly graduated full-stack developer.
 
 - 🏢 Currently working for [Caddev (a Work4Cad company)](https://www.caddev.info/) as a [C++](https://docs.microsoft.com/cpp) / [Qt](https://www.qt.io/) software developer.
 
-- 📚 I have an unlimited thirst for knowledge!
+- 💻 My main tasks today are about software development, personally or professionally.
 
-- 💻 My main tasks today are about software development.
+- 📚 I might no be the best in any technology, I am very versatile. Therefore, I can create a project from A to Z by myself, including backend (server / database), APIs and frontend. Also, I have an unlimited thirst for knowledge! I love learning new stuff!
 
-- 🌐 In 2021, I will concentrate my efforts into profesional website creation.
-
-- 📱 I am also interested in mobile apps, UI and UX, webdesign. These themes should also be part of this 2021 year goals, to be able to provide profesional quality apps.
+- 📱 I would like to concentrate my effort in mobile applications creation during 2022, to be able to provide profesional quality apps. I will try to think about UI and UX as much as possible at the same time.
 
 - 🇫🇷 French is my native language.
 
@@ -25,15 +23,15 @@ I am a twenty-two years old, freshly graduated full-stack developer.
 
 - 🇪🇸 I have studied Spanish at School and I can understand and speak a little bit of Spanish.
 
-- ⛸️ For the last few years, I used to practise ice rink skating. I may not be the best, but I will not give up on becoming one of the strongest people among the others that come to our city's ice rink!
+- 🇰🇷 I am currently studying Korean language. 읽어 주셔서 감사합니다!
 
-- 🎮 I used to be a geek when I was a little bit younger. My favorite game of all time? "NieR: Automata", without hesitation!
+- ⛸️ For the past few years, I used to practise ice rink skating. I may not be the best, but I will not give up on becoming one of the strongest people among the others that come to our city's ice rink!
+
+- 🎮 I used to be a geek when I was a little bit younger. My favorite game of all time? "NieR: Automata", without hesitation! This game is trully a masterpiece, it has an amazing story.
 
 - 🎵 I am a huge rap, hip-hop, electro and K-POP musics enthusiast!
 
-- 👨‍🎓 I am actively studying Korean language (level: beginner). 읽어 주셔서 감사합니다!
-
-- ✈️ I really hope I will be able to visit some Asian contries in a quite near future.
+- ✈️ I really hope I will be able to visit some Asian contries in a quite near future. My first choice would be the South Korea!
 
 #
 ## You can find some of my main personal creations below
