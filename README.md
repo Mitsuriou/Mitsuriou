@@ -1,7 +1,7 @@
 ![Mitsuriou's profile picture](https://avatars3.githubusercontent.com/u/37184309?s=100&u=5bea81cf98a1bddaefab87ac8d616cf034a13b62&v=4)
 
 # Hello and welcome to my Github profile 🧔
-I am a twenty-two years old, freshly graduated full-stack developer.
+I am a twenty-two years old full-stack developer.
 - <img src="https://content.linkedin.com/content/dam/me/news/en-us/icons/Social_Icons_linkedin.svg.original.svg" alt="LinkedIn icon" width="16"/> Find my LinkedIn profile [here](https://www.linkedin.com/in/d-jacq/).
 
 - <img src="https://cdn.iconscout.com/icon/free/png-128/gitlab-282507.png" alt="GitLab icon" width="16"/> Find my Gitlab profile [here](https://gitlab.com/Mitsuriou) (mostly used as a GitHub mirror for some projects).
