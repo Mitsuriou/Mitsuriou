@@ -44,12 +44,11 @@ I am a twenty-two years old, freshly graduated full-stack developer.
 
 #
 ## Languages and tools
-### Most personaly and profesionaly used languages, librairies and ressources
+### Most personally and professionally used languages, librairies and ressources
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ### Favorite web ressources
