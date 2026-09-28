@@ -1,86 +1,66 @@
 ![Mitsuriou's profile picture](https://avatars3.githubusercontent.com/u/37184309?s=100&u=5bea81cf98a1bddaefab87ac8d616cf034a13b62&v=4)
 
-# Hello and welcome to my Github profile 🧔
-I am a twenty-three years old software & full-stack web developer.
-- <img src="https://content.linkedin.com/content/dam/me/news/en-us/icons/Social_Icons_linkedin.svg.original.svg" alt="LinkedIn icon" width="16"/> Find my LinkedIn profile [here](https://www.linkedin.com/in/d-jacq/).
+# Hello and welcome to my GitHub profile! 🧔
 
-- <img src="https://cdn.iconscout.com/icon/free/png-128/gitlab-282507.png" alt="GitLab icon" width="16"/> Find my Gitlab profile [here](https://gitlab.com/Mitsuriou) (mostly used as a GitHub mirror for some projects).
+I am Dylan, a passionate software & web developer.
+- ![LinkedIn logo](https://img.shields.io/badge/LinkedIn-007ACC?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K) Find my LinkedIn profile [here](https://www.linkedin.com/in/d-jacq/).
+- ![Gitlab logo](https://img.shields.io/badge/Gitlab-black?style=flat&logo=gitlab) Find my GitLab profile [here](https://gitlab.com/Mitsuriou) (mostly used as a GitHub mirror for some projects).
 
-## Personal information
-- 🏫 Major of promotion in computer science DUT at the [University Institute of Technology of Belfort-Montbéliard](http://www.iut-bm.univ-fcomte.fr) for the years 2017-2019
-
-- 🏢 Currently working for [Caddev (a Work4Cad company)](https://www.caddev.info/) mainly as a [C++](https://docs.microsoft.com/cpp) / [Qt](https://www.qt.io/) software developer.
-
-- 💻 My main tasks today are about software development, personally or professionally.
-
-- 📚 I might no be the best in any technology, I am very versatile. Therefore, I can create a project from A to Z by myself, including backend (server / database), APIs and frontend. Also, I have an unlimited thirst for knowledge! I love learning new stuff!
-
-- 📱 I would like to concentrate my effort in mobile applications creation during 2022, to be able to provide profesional quality apps. I will try to think about UI and UX as much as possible at the same time.
-
+## Personal Information
+- 🎓 Major of promotion in computer science DUT at the [University Institute of Technology of Belfort-Montbéliard](https://www.umlp.fr/composantes/iut-nord-franche-comte) for the years 2017-2019.
+- 🏢 Currently working at Caddev as a 3D Front-end web developer (Vue.js / Three.js) and Lead software developer (C++/Qt)
+- 💻 My main professional tasks revolve around building C++ desktop applications, creating 3D web platforms (Vue.js / Three.js), and integrating modern web UIs into heavy clients using Microsoft Edge WebView2.
+- 📚 I am a versatile developer capable of building projects from A to Z, including backend infrastructure, APIs, and responsive frontends. I have an unlimited thirst for knowledge and love learning new technologies!
 - 🇫🇷 French is my native language.
+- 🇺🇸 I speak and understand English without problem.
+- 🇪🇸 I can understand and speak a little bit of Spanish.
+- 🇰🇷 I am currently actively studying the Korean language at an intermediate level. 읽어 주셔서 감사합니다!
+- ⛸️ I practice ice rink skating and always strive to improve my skills on the ice.
+- 🎮 My favorite game of all time is "NieR: Automata", a true narrative masterpiece.
+- 🎵 I am a huge rap, hip-hop, electro, and K-POP music enthusiast!
 
-- 🇺🇸 I can speak and understand English without problem ([TOEIC](https://www.etsglobal.org): 850 points).
+## Professional & Personal Highlights
+### Key Professional Projects
+- **[OnePilot](https://www.one-pilot.com)**: Front-end 3D web developer and technical lead on this SaaS CAM platform bringing professional CAM workflows to the web. Defined the overall front-end architecture (Vue.js, PrimeVue, Tailwind CSS, PWA-oriented approach), orchestrated a high-performance Three.js rendering engine, integrated a critical WebAssembly component built by compiling a native C++ codebase with Emscripten, and implemented a robust i18n system.
+- **[OptiPanneaux](https://cadwork.marketing/optipanneaux-ddl-soft) & [OptiCargo](https://cadwork.marketing/opticargo)**: Lead developer for these C++/Qt CAD/CAM applications, focusing on UX/UI overhauls and BTL/XML interoperability modules.
+- **HoloH Aquila**: Developed a 3D model visualization web platform integrating a custom Three.js rendering engine.
+- **CRM/ERP SaaS Solutions**: Built key business modules, invoicing engines, and real-time local-to-server synchronization tools.
 
-- 🇪🇸 I have studied Spanish at School and I can understand and speak a little bit of Spanish.
+### Open Source / Personal Creations
+- [MFBO Preset Creator](https://github.com/Mitsuriou/MFBO-Preset-Creator) (this software is used along with some other Skyrim modding tools).
 
-- 🇰🇷 I am currently studying Korean language. 읽어 주셔서 감사합니다!
-
-- ⛸️ For the past few years, I used to practise ice rink skating. I may not be the best, but I will not give up on becoming one of the strongest people among the others that come to our city's ice rink!
-
-- 🎮 I used to be a geek when I was a little bit younger. My favorite game of all time? "NieR: Automata", without hesitation! This game is trully a masterpiece, it has an amazing story.
-
-- 🎵 I am a huge rap, hip-hop, electro and K-POP musics enthusiast!
-
-#
-## You can find some of my main personal creations below
-### Softwares
-- [MFBO Preset Creator](https://github.com/Mitsuriou/MFBO-Preset-Creator) (this software is used along with some other Skyrim modding tools)
-### Websites (made for my father's companies)
+### Websites (made and deployed in 2019, for my father's companies)
 - [Cuisine Idylle](https://www.cuisine-idylle.fr) (needs to be updated and hugely improved)
 - [Home concept](https://www.homconcept.com) (Work In Progress)
 
-#
-## Languages and tools
-### Most personally and professionally used languages, librairies and ressources
+## Languages and Tools
+
+### Core Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-### Favorite web ressources
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white)
-![Vue.JS](https://img.shields.io/badge/Vue.JS-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/Nuxt.JS-00C58E?style=flat&logo=nuxt.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind%20css&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
-### Most personally and profesionaly used development tools
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white)
+### Additional Technologies & Tools
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-10B981?style=flat&logo=primevue&logoColor=white)
+![WebView2](https://img.shields.io/badge/WebView2-0078D7?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
 
-### Near future interests
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+### AI Tools
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 
-#
-## General statistics
-![Mitsuriou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitsuriou&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&line_height=40)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuriou)
+## General Statistics
+![Mitsuriou's GitHub Stats](https://github-stats-extended.vercel.app/api?username=mitsuriou&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&line_height=40&theme=vue-dark)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mitsuriou&theme=vue-dark)
 
-#
 ## Support me!
 Anything I create is for free and is created during my free time. Any given cent is meaningful to me. If you want to support me financially, click the button below:
 
